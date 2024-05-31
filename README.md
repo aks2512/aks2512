@@ -1,7 +1,7 @@
 ## About me
 
  - I live in Brazil.</li>
- - Currently my study focus is JS, Node.js, React.js, CSS, SASS and PHP.</li>
+ - Currently my study focus is JS, Node.js, Next, Three.js, React.js, CSS, SASS and PHP.</li>
  - I'm Front-end Developer in company Mestres da Web</li>
 
 ## My Skills
