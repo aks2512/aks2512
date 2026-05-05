@@ -2,7 +2,6 @@
 
  - I live in Brazil.</li>
  - Currently my study focus is Node, Angular, Vue, React and PHP/Laravel.</li>
- - I'm Front-end Developer in company Mestres da Web</li>
 
 ## My Skills
 <p>
